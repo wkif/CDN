@@ -2,3 +2,5 @@ git add .
 git commit -m'第几次’
 git push
 https://cdn.jsdelivr.net/gh/wkif/CDN@版本号/目录
+
+  wechat: /medias/reward/wechat.png
